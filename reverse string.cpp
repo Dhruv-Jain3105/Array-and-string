@@ -19,6 +19,6 @@ int main(){
 }
 /*
 Output:-
-Enter a string: Rachit
-Reversed string: tihcaR
+Enter a string: Dhruv
+Reversed string: vurhD
 */
