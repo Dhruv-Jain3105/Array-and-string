@@ -1,6 +1,6 @@
 /*
-Name: Rachit Deshpande
-PRN: 24070123035
+Name: Dhruv Jain
+PRN: 24070123042
 batch:-A2
 */
 #include <iostream>
@@ -15,6 +15,7 @@ int main(){
 }
 /*
 Output:
-Enter your name: Rachit Deshpande
-Full name: Rachit Deshpande
+Enter your name: Dhruv 
+                 Jain
+Full name: Dhruv Jain
 */
