@@ -15,6 +15,6 @@ int main(){
 }
 /*
 Output:
-Enter a string of 6 characters followed by a string: Rachit DESHPANDE
-Rachit DESHPANDE
+Enter a string of 6 characters followed by a string: Dhruv JAIN
+Dhruv JAIN
 */
